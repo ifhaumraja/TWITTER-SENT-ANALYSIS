@@ -14,3 +14,4 @@ Sentiment analysis is the process of determining the sentiment expressed in a pi
 - Pandas library
 - NumPy library
 - Matplotlib library
+- os library
